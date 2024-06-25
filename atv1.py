@@ -1,0 +1,5 @@
+nomeProprio = input("Digite seu nome:")
+apelido = input("Digite seu apelido:")
+edereco = input("Digite seu endereço:")
+CidGodPostal = input('Digite sua cidade e código postal:')
+print(f'{nomeProprio} {apelido} {edereco} {CidGodPostal}')
