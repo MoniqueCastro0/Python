@@ -5,3 +5,4 @@ teste = True
 
 print(f"{type(string)} {type(numeInteiro)} {type(nomeFloat)} {type(teste)}") #type mostra qual é o tipo da variavel
 
+- teste

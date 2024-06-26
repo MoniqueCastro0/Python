@@ -11,4 +11,4 @@ alto = 3000
 
 print(f"Meu nome é {nome}, tenho {idade} anos. \nMinhas habilidades são {skill}, {level1}. {skill2}, {level2}. {skill3}, {level3}. \nProcuro um emprego com um salário de {baixo} a {alto} euros por mês.")
 
-#print(f"o resultado é {resultado}, e a conta de dois valores é {resultado2}")
+#print(f"o resultado é {resultado}, e a conta de dois valores é {resultado2}") - teste

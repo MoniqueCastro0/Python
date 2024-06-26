@@ -6,4 +6,4 @@ peso = float(input("Digite seu peso:"))
 
 imc = peso / (altura / 100) ** 2
 
-print(f'O IMC É: {imc}')
+print(f'O IMC É: {imc}') - teste
