@@ -13,13 +13,6 @@ print("Foi!")
 
 
 
-
-
-
-
-
-
-
 #num = 10
 #print("Contando")
 
