@@ -4,8 +4,6 @@ tentativas = 0
 
 
 
-
-
 while True:
     codigo = input("Digite seu PIN: ") 
     tamanho = len(codigo)

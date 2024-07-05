@@ -4,14 +4,20 @@ numero_secreto = random.randint(1,100)
 
 print(numero_secreto)
 
-tentativas = 0
+palpite = 0
 
-while numero_secreto == palpite:
+while numero_secreto != palpite: #Enquanto for verdadeiro vai execultar
+    
     palpite = int(input("Digite um palpite de número: "))
 
-    if numero_secreto < palpite:
-        print("É um número maior! ")
-    else:
+           #20            69
+    if palpite > numero_secreto:
         print("É um número menor! ")
+    
+    if palpite < numero_secreto:
+        print("É um número maior! ")
+
+
+
 
 print("Fim")
