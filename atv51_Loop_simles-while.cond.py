@@ -1,3 +1,5 @@
+#incom
+
 import re
 
 tentativas = 0
@@ -10,12 +12,11 @@ while True:
     tentativas += 1
 
     if tamanho == 8:
-        print("teste")
-
-
-    if codigo == "4321":
         sucesso = True 
         break
+
+
+    
     
     print("Incorreto....Tente novamente")
     

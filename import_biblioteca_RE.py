@@ -5,3 +5,4 @@ print(re.search("[a-z]", "senha"))
 print(re.search("[0-9]", "senha"))
 
 print(maiuscula)
+
