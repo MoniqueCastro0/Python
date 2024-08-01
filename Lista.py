@@ -16,7 +16,7 @@ print(numeros)
 
 #Adicionar intens em um lugar espercifico da lsita 
 num = [1,2,3,5,6]
-num.insert(3, 10)
+num.insert(3, 10) #o 1° numero é indice da onde deve ser adicionado
 print(num)
 
 #remover itens
