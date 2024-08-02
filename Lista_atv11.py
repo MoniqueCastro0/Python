@@ -1,6 +1,6 @@
 #incompleta
 
-pessoas = [["", 0], ["", 0], ["", 0], ["", 0]]
+pessoas = [["", 0]]
 
 
 while True:
@@ -14,6 +14,8 @@ while True:
           pessoas[0][1] = numero
           print(nome)
           print(numero)
+          
+        
           break
 
     if comando == 3:

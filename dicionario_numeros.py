@@ -2,6 +2,9 @@ resultados = {}
 resultados["Mary"] = 4
 resultados["Alice"] = 5
 resultados["Larry"] = 2
+print(resultados)
+
+
 
 lists = {} #d3finindo o dicionario
 lists[5] = [1, 2, 3]
